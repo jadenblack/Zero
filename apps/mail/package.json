@@ -54,7 +54,7 @@
     "@trpc/tanstack-react-query": "catalog:",
     "@zero/server": "workspace:*",
     "accept-language-parser": "^1.5.0",
-    "agents": "0.0.93",
+    "agents": "0.3.10",
     "ai": "^4.3.9",
     "autumn-js": "catalog:",
     "babel-plugin-react-compiler": "19.1.0-rc.2",
@@ -69,7 +69,7 @@
     "dedent": "^1.5.3",
     "deepmerge": "4.3.1",
     "dexie": "4.0.11",
-    "dompurify": "^3.2.5",
+    "dompurify": "^3.4.0",
     "email-addresses": "5.0.0",
     "emblor": "^1.4.8",
     "eslint-plugin-react-hooks": "6.0.0-rc.1",
@@ -142,7 +142,7 @@
     "tailwind-scrollbar": "4.0.2",
     "tailwindcss": "4.1.11",
     "typescript": "catalog:",
-    "vite": "^6.3.5",
+    "vite": "^6.4.2",
     "vite-tsconfig-paths": "^5.1.4",
     "wrangler": "catalog:"
   }
